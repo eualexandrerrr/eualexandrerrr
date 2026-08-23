@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 108" width="920" height="108" role="img" aria-label="15+ anos de codigo, 100+ projetos entregues, 40+ tecnologias, resposta em ate 24h">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDB20D"/><stop offset="100%" stop-color="#FB8329"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FB8329"/><stop offset="100%" stop-color="#F4465A"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F4465A"/><stop offset="100%" stop-color="#E22A5F"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E22A5F"/><stop offset="100%" stop-color="#C91E74"/>
+    </linearGradient>
+    <style>
+      .num { font: 700 34px 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .cap { font: 400 12.5px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6B6480; letter-spacing: 0.4px; }
+      .div { stroke: #E4E0EC; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <text x="115" y="52" class="num" fill="url(#g1)" text-anchor="middle">15+</text>
+  <text x="115" y="78" class="cap" text-anchor="middle">anos de código</text>
+
+  <line x1="230" y1="26" x2="230" y2="82" class="div"/>
+
+  <text x="345" y="52" class="num" fill="url(#g2)" text-anchor="middle">100+</text>
+  <text x="345" y="78" class="cap" text-anchor="middle">projetos entregues</text>
+
+  <line x1="460" y1="26" x2="460" y2="82" class="div"/>
+
+  <text x="575" y="52" class="num" fill="url(#g3)" text-anchor="middle">40+</text>
+  <text x="575" y="78" class="cap" text-anchor="middle">tecnologias</text>
+
+  <line x1="690" y1="26" x2="690" y2="82" class="div"/>
+
+  <text x="805" y="52" class="num" fill="url(#g4)" text-anchor="middle">24h</text>
+  <text x="805" y="78" class="cap" text-anchor="middle">tempo de resposta</text>
+</svg>
